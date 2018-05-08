@@ -7,6 +7,7 @@
 * Caldera (MITRE): https://github.com/mitre/caldera
 * Invoke-Adversary : https://github.com/CyberMonitor/Invoke-Adversary
 * RTA : https://github.com/endgameinc/RTA
+* MalwLess : https://github.com/n0dec/MalwLess
 
 ## Forensics
 
