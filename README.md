@@ -21,3 +21,4 @@
 ### Memory
 
 * psinfo plugin for Volatility (advanced process information from VAT / PEB): https://github.com/monnappa22/Psinfo
+* bitlocker pluging for Volatility to extract key from memory: https://github.com/elceef/bitlocker
