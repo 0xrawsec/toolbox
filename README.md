@@ -16,6 +16,8 @@
 
 ## Forensics
 
+* BitLocker mount (Linux): https://github.com/libyal/libbde
+
 ### Memory
 
 * psinfo plugin for Volatility (advanced process information from VAT / PEB): https://github.com/monnappa22/Psinfo
