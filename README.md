@@ -22,3 +22,8 @@
 
 * psinfo plugin for Volatility (advanced process information from VAT / PEB): https://github.com/monnappa22/Psinfo
 * bitlocker pluging for Volatility to extract key from memory: https://github.com/elceef/bitlocker
+
+## Binary Analysis
+
+### Dynamic
+  * WinDBG debugger extension to trace data flow backwards through the control flow of a function https://github.com/Microsoft/WinDbg-Samples/tree/master/CodeFlow
